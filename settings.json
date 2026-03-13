@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CoinsSMP_S1.aternos.me",
-    "port": 23780,
-    "version": "",
+    "ip": "LapataSMP222.aternos.me",
+    "port": 56757,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
